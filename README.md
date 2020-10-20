@@ -6,5 +6,7 @@ I came to understand how complex asynchronous events work while making Picture i
 
 ## Instructions
 1 Click on the 'Choose' button to choose the screen to be popped off.
+<br>
 2 Naviagte back to the Picture in Picture page and click 'Play' to pop off the screen.
+<br>
 3 Enjoy! The mini screen can be resized as well as docked anywhere on your screen.
